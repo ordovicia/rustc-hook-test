@@ -1,0 +1,4 @@
+[[package]]
+name = "rustc-hook-test"
+version = "0.1.0"
+
